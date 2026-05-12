@@ -15,8 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=J0rgeSilva&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-🧠 Philosophy
-<h2 align="center">
+<h2🧠 Philosophy
+ align="center">
   <i>"Van Gogh lost his mind in the process.<br>
   I lost mine building code."</i>
 </h2>
