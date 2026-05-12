@@ -15,9 +15,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=J0rgeSilva&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-🧠 Philosophy
+<br>🧠 Philosophy
 
 “Van Gogh lost his mind in the process. I lost mine building code.”
 
-
+🚀 Future Projects
+█▀▀ █▀█ █▀▄▀█ █ █▄░█ █▀▀   █▀ █▀█ █▀█ █▄░█
+█▄▄ █▄█ █░▀░█ █ █░▀█ █▄█   ▄█ █▄█ █▄█ █░▀█<br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
